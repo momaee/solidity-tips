@@ -6,3 +6,12 @@
 5 - Use external function modifier.
 6 - Use Short Circuiting rules to your advantage.
 7 - Avoid changing storage data.
+8 - Deletion
+9 - Storing data in events
+10 - initialization is expensive
+11 - fixed size vars (arrys) are cheaper than dynamics.
+12 - Initializing structs like this:
+  Mystruct storage mst = Mystruct();
+  mst.x = 0;
+  mst.y = 0;
+13 - 
