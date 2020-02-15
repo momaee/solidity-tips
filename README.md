@@ -15,3 +15,13 @@
   mst.x = 0;
   mst.y = 0;
 13 - 
+
+
+
+
+
+
+########### 
+1 - what is pure
+2 - what is interanl and ...
+3 - 
