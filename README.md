@@ -16,7 +16,7 @@
   mst.y = 0;
 13 - don't call libraries
 14 - use modifier instead of using require inside the function
-
+15 - internal is cheaper than private
 
 
 
