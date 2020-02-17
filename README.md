@@ -15,7 +15,7 @@
   mst.x = 0;
   mst.y = 0;
 13 - don't call libraries
-14 
+14 - use modifier instead of using require inside the function
 
 
 
