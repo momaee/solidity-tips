@@ -14,7 +14,8 @@
   Mystruct storage mst = Mystruct();
   mst.x = 0;
   mst.y = 0;
-13 - 
+13 - don't call libraries
+14 
 
 
 
@@ -24,4 +25,4 @@
 ########### 
 1 - what is pure
 2 - what is interanl and ...
-3 - 
+3 - read famous contracts
