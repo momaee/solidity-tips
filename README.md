@@ -26,3 +26,4 @@
 1 - what is pure
 2 - what is interanl and ...
 3 - read famous contracts
+4 - what is proxy for contracts?
