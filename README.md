@@ -29,3 +29,4 @@
 4 - what is proxy for contracts?
 6 - new??
 7 - assign to local var for elementry types and non elemetries
+8 - msg.sender vs tx.origin
