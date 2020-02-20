@@ -27,3 +27,5 @@
 2 - what is interanl and ...
 3 - read famous contracts
 4 - what is proxy for contracts?
+6 - new??
+7 - assign to local var for elementry types and non elemetries
